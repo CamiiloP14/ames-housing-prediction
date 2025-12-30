@@ -52,7 +52,7 @@ Este dataset es ideal para **modelado predictivo, ingeniería de característica
 
 ---
 
-## 🔜 Resultados principales (pendientes)
+## 🔜 Resultados principales
 - Modelo ganador: **LASSO**  
 - TRAIN RMSE (log): 0.1302960671229784  
 - TEST RMSE (log): 0.11571793484987468  
