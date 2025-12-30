@@ -59,7 +59,7 @@ Este dataset es ideal para **modelado predictivo, ingeniería de característica
 - TRAIN R²: 0.8944921714470315  
 - TEST R²: 0.9276296145781626  
 
-> 💡 Estas métricas muestran un buen ajuste y capacidad de generalización, pero todavía puedes completarlas con gráficos de residuales y Real vs Predicho.
+> 💡 Estas métricas muestran un buen ajuste y capacidad de generalización.
 
 ---
 
