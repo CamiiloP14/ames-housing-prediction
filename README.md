@@ -42,12 +42,7 @@ Este dataset es ideal para **modelado predictivo, ingeniería de característica
 
 4. **Modelado** 🧮  
    - Creación de pipeline completo:  
-     ```python
-     Pipeline([
-         ("preprocessor", preprocessor),
-         ("regressor", Model())
-     ])
-     ```
+![Flujo del pipeline](Images/Pipeline.png) 
    - Ventajas: evita data leakage, reproducible, escalable, listo para producción  
 
 ---
