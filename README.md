@@ -64,8 +64,8 @@ Este dataset es ideal para **modelado predictivo, ingeniería de característica
 ---
 
 ## 📈 Evaluación del modelo 
-- Gráfico Real vs Predicho  
-![Real vs Predicho](images/realvspredicho.png) 
+- Gráfico Real vs Predicho
+![Real vs Predicho](Images/realvspredicho.png) 
 ### 🔹 Resumen basado en LASSO
 - **TRAIN RMSE (log):** 0.1303  
 - **TEST RMSE (log):** 0.1157  
